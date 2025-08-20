@@ -1,1 +1,6 @@
-
+START
+  PROMPT user to enter a value
+  READ value
+  result = value * 10
+  OUTPUT result
+END
